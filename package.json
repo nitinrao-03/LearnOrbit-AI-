@@ -1,0 +1,9 @@
+{
+  "name": "learn-orbit-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Learn Orbit AI backend dependencies",
+  "dependencies": {
+    "@mlc-ai/web-llm": "^0.2.84"
+  }
+}
